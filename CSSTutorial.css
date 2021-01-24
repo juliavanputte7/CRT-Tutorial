@@ -95,3 +95,18 @@ body {
     margin-top: 50px;
     margin-left: 235px;
  }
+
+ .navbar {
+     margin: auto;
+     margin-top: 50px;
+     width: 50%;
+     border: 3px lightblue solid;
+     font-weight: bold;
+     padding: 20px;
+     font-size: 100px;
+     text-align: center;
+ }
+
+ #CSSimg {
+     width: 50%
+ }
